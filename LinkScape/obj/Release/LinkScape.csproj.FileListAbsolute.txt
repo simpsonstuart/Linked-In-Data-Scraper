@@ -1,0 +1,10 @@
+C:\LinkScrape\LinkScape\LinkScape\bin\Release\LinkScape.exe.config
+C:\LinkScrape\LinkScape\LinkScape\obj\Release\Interop.SHDocVw.dll
+C:\LinkScrape\LinkScape\LinkScape\obj\Release\LinkScape.csproj.ResolveComReference.cache
+C:\LinkScrape\LinkScape\LinkScape\bin\Release\LinkScape.exe
+C:\LinkScrape\LinkScape\LinkScape\bin\Release\LinkScape.pdb
+C:\LinkScrape\LinkScape\LinkScape\obj\Release\LinkScape.Form1.resources
+C:\LinkScrape\LinkScape\LinkScape\obj\Release\LinkScape.Properties.Resources.resources
+C:\LinkScrape\LinkScape\LinkScape\obj\Release\LinkScape.csproj.GenerateResource.Cache
+C:\LinkScrape\LinkScape\LinkScape\obj\Release\LinkScape.exe
+C:\LinkScrape\LinkScape\LinkScape\obj\Release\LinkScape.pdb
